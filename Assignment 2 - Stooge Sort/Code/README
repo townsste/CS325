@@ -1,0 +1,5 @@
+Compile:
+gcc stoogesort.c -o stoogesort
+
+Run:
+./stoogesort

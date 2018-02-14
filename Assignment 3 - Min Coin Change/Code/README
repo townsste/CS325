@@ -1,0 +1,5 @@
+Compile:
+gcc minCoinChange.c -o minCoinChange
+
+Run:
+./minCoinChange

@@ -1,0 +1,7 @@
+Compile:
+gcc insertsort.c -o insertsort
+gcc mergesort.c -o mergesort
+
+Run:
+./insertsort
+./mergesort

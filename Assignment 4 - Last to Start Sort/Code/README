@@ -1,0 +1,5 @@
+Compile:
+gcc lasttostart.c -o lasttostart
+
+Run:
+./lasttostart
